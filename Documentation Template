@@ -1,0 +1,53 @@
+## Documentation
+
+### Server Configuration
+
+#### Server Information:
+
+- **Operating System:** [Specify the OS]
+- **IP Address:** [Provide the static IP address]
+- **Telnet Server Configuration:**
+  - [Include relevant configuration details]
+
+#### Switch Configuration:
+
+- **Switch Model:** [Specify the switch model]
+- **VLAN Configuration:**
+  - [Document VLAN settings]
+- **Switch Ports:**
+  - [Specify ports and connected devices]
+
+#### Router Configuration:
+
+- **Router Model:** [Specify the router model]
+- **Routing Information:**
+  - [Specify static routes or dynamic routing protocols]
+- **Interfaces Configuration:**
+  - [Document IP addresses assigned to interfaces]
+
+### Network Topology:
+
+- [Include a diagram illustrating the network topology]
+
+### Security Measures:
+
+- **Firewall Rules:**
+  - [List firewall rules and configurations]
+- **Access Control:**
+  - [Specify user access controls]
+
+### Additional Information:
+
+- **Date of Configuration:** [Include date]
+- **Purpose of Configuration:** [Briefly describe the purpose]
+- **Troubleshooting Notes:**
+  - [Document any issues faced during configuration and their resolution]
+
+### Next Steps:
+
+- [Outline any future steps or improvements]
+
+---
+
+#### Note: Adjust the template based on your specific configurations and requirements.
+
